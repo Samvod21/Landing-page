@@ -1,2 +1,2 @@
 # Landing-page
-Exercising foundations of web
+A repo to exercise basics of web with full page
